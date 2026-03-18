@@ -19,18 +19,18 @@ body::-webkit-scrollbar {
 
 .grass {
   margin-top: 320px;
-  background-image: url(minecraft_block_textures/Grass_Block.png);
+  background-image: url(./minecraft_block_textures/Grass_Block.png);
   background-repeat: repeat-x;
   height: 40px;
 }
 .dirt {
   height: 200px;
-  background-image: url(minecraft_block_textures/Dirt_Block.png);
+  background-image: url(./minecraft_block_textures/Dirt_Block.png);
   background-repeat: repeat;
 }
 
 .stone {
   height: 280px;
-  background-image: url(minecraft_block_textures/Stone_Block.png);
+  background-image: url(./minecraft_block_textures/Stone_Block.png);
   background-repeat: repeat;
 }
